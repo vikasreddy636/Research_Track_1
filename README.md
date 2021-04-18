@@ -1,4 +1,4 @@
-![rosgraph](https://user-images.githubusercontent.com/73032093/115157775-97e8c200-a07a-11eb-945b-17eff98c5c36.png)
+
 # Research_Track_1-final-assignmnet (Ginne vikas Reddy) (matricola 5061211)
 
 ## Overview of the project
@@ -38,7 +38,7 @@ in case of pressing 4,the velocities are set to 0 ,then the robot will stop for 
 ![Screenshot 2021-04-17 at 3 10 58 PM](https://user-images.githubusercontent.com/73032093/115137454-7d84f900-a026-11eb-8259-6d61ea7505e7.png)
 
 ## software Architecture
-![rosgraph](https://user-images.githubusercontent.com/73032093/115137532-fdab5e80-a026-11eb-9fec-808bb90ed687.png)
+![rosgraph](https://user-images.githubusercontent.com/73032093/115157775-97e8c200-a07a-11eb-945b-17eff98c5c36.png)
 
 ## How to run the code
 
